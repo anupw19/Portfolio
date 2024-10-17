@@ -14,9 +14,9 @@ const Navbar = () => {
             >
                 Anup Waskel</motion.span>
             <div className="social">
-                <a href="#"><img src="/instagram.png" alt="instagram-img"/></a>
-                <a href="#"><img src="/instagram.png" alt="instagram-img"/></a>
-                <a href="#"><img src="/instagram.png" alt="instagram-img"/></a>
+                <a href="https://leetcode.com/u/anupw19/"><img src="/instagram.png" alt="leetcode-img"/></a>
+                <a href="https://github.com/anupw19"><img src="/instagram.png" alt="github-img"/></a>
+                <a href="https://www.linkedin.com/in/anupw19/"><img src="/instagram.png" alt="linkedin-img"/></a>
                 <a href="#"><img src="/instagram.png" alt="instagram-img"/></a>
             </div>
         </div>

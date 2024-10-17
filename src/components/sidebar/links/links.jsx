@@ -5,7 +5,7 @@ const links = () => {
     const variants = {
         open:{
             transition:{
-                staggerChildren:1,
+                staggerChildren:0.1,
             },
         },
         closed:{
@@ -27,7 +27,7 @@ const links = () => {
 
     const items = [
         "Homepage",
-        "Services",
+        "Projects",
         "Portfolio",
         "Contact",
         "About"

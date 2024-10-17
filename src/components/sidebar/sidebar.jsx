@@ -14,13 +14,13 @@ const Sidebar = () => {
         clipPath:"circle(1200px at 50px 50px)",
         transition:{
             type:"spring",
-            stiffness:400,
-            dimping:40,
+            stiffness:40,
+            dimping:60,
         },},
         closed:{
             clipPath:"circle(30px at 50px 50px)",
             transition:{
-                delay:0.5,
+                delay:0.2,
                 type:"spring",
                 stiffness:400,
                 dimping:40,
