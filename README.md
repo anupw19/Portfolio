@@ -1,2 +1,2 @@
-this is my personal porfolio.
+This is my personal porfolio.
 
