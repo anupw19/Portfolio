@@ -17,8 +17,8 @@ const items = [
   },
   {
     id: 3,
-    title: "title 3",
-    img: "https://imgs.search.brave.com/iWekQnDcrDpsYG2gmFCBwV6dEJi--Ufld5lNnWN-qpk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9waXhs/ci5jb20vaW1hZ2Vz/L2luZGV4L2FpLWlt/YWdlLWdlbmVyYXRv/ci10d28ud2VicA",
+    title: "SECRETS",
+    img: "secert.png",
     desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
   },
   {
