@@ -5,8 +5,8 @@ import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 const items = [
   {
     id: 1,
-    title: "title 1",
-    img: "https://imgs.search.brave.com/EHF9CpJc3N7PVMYq-qxeNq9Jo8V3RJX3r-ZdwUQ57P8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aXN0b2NrcGhvdG8u/Y29tL3Jlc291cmNl/cy9pbWFnZXMvRnJl/ZVBob3Rvcy9GcmVl/LVBob3RvLTc0MHg0/OTItMjE3NTM3Mjk3/Mi5qcGc",
+    title: "GEMINI-CLONE",
+    img: "gemini.png",
     desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
   },
   {
