@@ -10,7 +10,7 @@ const items = [
     desc: "A Gemini Clone website is a replica of the popular chatbot interface, Gemini, powered by the Google Gemini API. These websites aim to replicate the functionality of the original Gemini platform, providing a user-friendly interface for interacting with the powerful Gemini model."},
   {
     id: 2,
-    title: "title 2",
+    title: "E-COMMERECE WEBSITE",
     img: "https://imgs.search.brave.com/03auehT1jOYWRCUzf91H6XY0Lbl6UTQ1_8RG-GU6bnQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3RmYXNzZXRz/Lm5ldC9ocmx0eDEy/cGw4aHEvN3lRUjV1/Smh3RWtSZmp3TUZK/N2JVSy9kYzUyYTA5/MTNlOGZmOGI1YzI3/NjE3Nzg5MGViMDEy/OS9vZmZzZXRfY29t/cF83NzI2MjYtb3B0/LmpwZz9maXQ9Zmls/bCZ3PTgwMCZoPTMw/MA",
     desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
   },
